@@ -57,6 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\AppleTree.cs" />
+    <Compile Include="Assets\Apple.cs" />
+    <Compile Include="Assets\ApplePicker.cs" />
+    <Compile Include="Assets\Basket.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
